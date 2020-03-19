@@ -8,7 +8,10 @@ The dashboard is non-interactive as it is intended to be displayed on a TV for r
 
 Data from the weather stations is uploaded to Campbell Scientific or a private host using a WiFi or Satellite internet connection. The GeoSensorWeb Lab at the University of Calgary runs a cloud service that automatically retrieves the latest data from those sources and converts it to SensorThings API entities, after which it is uploaded to a public SensorThings API service hosted by SensorUp Inc.
 
-Additional documentation regarding use cases and technical architecture are located in the `docs` directory.
+Additional documentation regarding use cases and technical architecture are located in the `docs` directory:
+
+* [Technical Architecture](docs/technical_architecture.markdown)
+* [Use Cases](docs/use_cases.markdown)
 
 ## Using the Dashboard
 
